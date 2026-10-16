@@ -1,0 +1,6 @@
+# .NET intermediate build files
+[Oo]bj/
+
+# Visual Studio local settings
+.vs/
+bin/
